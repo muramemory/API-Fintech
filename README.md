@@ -12,9 +12,12 @@ To access the code, click the link below or above!
 
 ### 1. Step one - 
 
-Intiated the alpaca trade API to pull the data from online. We used that API to specifically pull bitcoin data, as shown below in the image.
+Intiated the alpaca trade API to pull the data from online. We used that API to specifically pull bitcoin data, create a dataframe of a sample portfolio then printed the values into our national currency value (AUD) relative to the sample portfolio.
 
 ![image_add](Images/bitcoin_fetch_code.png)
+![image_add](Images/API_data.png)
+![image_add](Images/compute_crypto_values.png)
+![image_add](Images/crypto_portfolio.png)
 
 
 ### 2. Stepn two - 
