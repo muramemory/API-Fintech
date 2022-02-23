@@ -10,8 +10,13 @@ To access the code, click the link below or above!
 
 ## Overview
 
-1. Step one - intiated the alpaca trade API to pull the data from online. We used that API to specifically pull bitcoin data, as shown below in the image.
+### 1. Step one - 
+
+Intiated the alpaca trade API to pull the data from online. We used that API to specifically pull bitcoin data, as shown below in the image.
+
 ![image_add](Images/bitcoin_fetch_code.png)
 
 
-2.
+### 2. Stepn two - 
+### 3. Step three -
+###  4 . Sep four - 
