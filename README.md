@@ -5,7 +5,7 @@ The kernel file includes a demonstration of using pandas and matplotlib to plot 
 
 To access the code, click the link below or above!  
 
-![Financial Planner](https://github.com/muramemory/Fintech-API/blob/main/financial_planner.ipynb)
+[Financial Planner](https://github.com/muramemory/Fintech-API/blob/main/financial_planner.ipynb)
 
 
 ## Overview
