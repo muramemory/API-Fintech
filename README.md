@@ -20,6 +20,6 @@ Intiated the alpaca trade API to pull the data from online. We used that API to 
 ![image_add](Images/crypto_portfolio.png)
 
 
-### 2. Stepn two - 
+### 2. Step two - 
 ### 3. Step three -
-###  4 . Sep four - 
+###  4 . Step four - 
