@@ -10,11 +10,13 @@ To access the code, click the link below or above!
 
 ## Overview
 
-### 1. Step one - Data Intialising
+### 1. Step one - Data Intialising & Crypto Portfolio
 
 Intiated the alpaca trade API to pull the data from online. We used that API to specifically pull bitcoin data, as shown below in the image.
 
-![image_add](Images/bitcoin_fetch_code.png)
+![image_add](Images/imports_and_api.png)
+![image_add](Images/personal_crypto.png)
+![image_add](Images/fetch_and_compute.png)
 
 
 ### 2. Step two - Find Stock Prices & Create Pie Plot 
