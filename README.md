@@ -15,6 +15,9 @@ To access the code, click the link below or above!
 Intiated the alpaca trade API to pull the data from online. We used that API to specifically pull bitcoin data, as shown below in the image.
 
 ![image_add](Images/imports_and_api.png)
+
+Crypto Portfolio 
+
 ![image_add](Images/personal_crypto.png)
 ![image_add](Images/fetch_and_compute.png)
 
