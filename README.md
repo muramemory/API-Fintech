@@ -20,6 +20,7 @@ Crypto Portfolio
 
 ![image_add](Images/personal_crypto.png)
 ![image_add](Images/fetch_and_compute.png)
+![image_add](Images/crypto_portfolio.png)
 
 
 ### 2. Step two - Find Stock Prices & Create Pie Plot 
